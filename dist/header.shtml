@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+ 	<head>
+ 		<meta charset="utf-8">
+  		<title>###TITLE###</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/> 				
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="/.polyfonia/normalize.css" type="text/css">
+		<link rel="stylesheet" href="/.polyfonia/style.css" type="text/css">
+  	</head>
+ 	<body>
+	 	<div class="polyfonia-wrapper">
+	 		<div class="polyfonia-main">
+			 	<div class="polyfonia-header">
+			 		<img class="polyfonia-logo" src="/.polyfonia/logo.png">
+			 	</div>
+			 	<div class="polyfonia-content">
+			 		<h1><!--#echo decoding="urlencoded" var="REQUEST_URI" --></h1>

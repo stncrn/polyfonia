@@ -1,0 +1,33 @@
+Icon files:
+
+- Faenza:
+  https://github.com/shlinux/faenza-icon-theme
+  GPL-3.0
+
+- Flaticons
+  https://flaticons.net
+  "royalty free for your personal and commercial projects"
+
+
+
+
+Copyright icon in html:
+
+- Fontawesome 5
+  https://fontawesome.com
+  CC-BY-4.0
+
+
+
+
+Theme itself is beerware:
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <st@nisl.as> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.
+ * ----------------------------------------------------------------------------
+ */
+
+

@@ -1,0 +1,10 @@
+<!--#include file="./header.shtml" -->
+  
+<div class="polyfonia-error">
+
+	<p>&#175;&#92;&#95;&#40;&#12484;&#41;&#95;&#47;&#175;</p>
+	<p><!--#echo var="REDIRECT_STATUS" --></p>
+
+</div>
+
+<!--#include virtual="./footer.shtml" -->			 		

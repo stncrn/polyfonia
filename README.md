@@ -6,7 +6,7 @@
 - matching error page included
 - icons for many files extensions (see `LICENSE` for their source)
 
-
+![](readme/1.png)![](readme/2.png)![](readme/3.png)
 
 ## How to deploy
 

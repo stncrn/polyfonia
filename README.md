@@ -53,7 +53,6 @@ Your configuration should look like this:
 ```
 <Directory /var/www>
     Options +Indexes +FollowSymLinks
-    Include /home/user/polyfonia.conf
 </Directory>
 
 <Directory /home/user/polyfonia>
@@ -74,6 +73,7 @@ Your configuration should look like this:
 	ErrorDocument 502 /.polyfonia/404.shtml
 	ErrorDocument 503 /.polyfonia/404.shtml
 	ErrorDocument 504 /.polyfonia/404.shtml
+	Include /home/user/polyfonia.conf
 
 	etc...
 </VirtualHost>
